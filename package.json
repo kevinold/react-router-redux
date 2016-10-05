@@ -4,7 +4,7 @@
   "description": "Synchronize React Router with your Redux store",
   "repository": "reactjs/react-router-redux",
   "license": "MIT",
-  "main": "modules/index",
+  "main": "modules/index.js",
   "author": "Tim Dorr <timdorr@timdorr.com>",
   "files": [
     "*.md",
